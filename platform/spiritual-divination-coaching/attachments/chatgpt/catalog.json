@@ -1,0 +1,153 @@
+{
+  "version": "1.0.0",
+  "sector_count": 16,
+  "canonical_repository": "avikmaj/universal-master-prompt-library",
+  "canonical_branch": "main",
+  "canonical_prefix": "prompts/15-spiritual-divination-coaching",
+  "sectors": [
+    {
+      "id": "spiritual-divination-coaching-astrology-western-sector-expert",
+      "sector": "Western Astrology",
+      "slug": "astrology-western",
+      "scope": "natal charts, transits, progressions, synastry, composites, electional and horary astrology",
+      "risk": "high",
+      "file": "prompts/astrology-western/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-vedic-astrology-jyotisha-sector-expert",
+      "sector": "Vedic Astrology and Jyotisha",
+      "slug": "vedic-astrology-jyotisha",
+      "scope": "grahas, rashis, bhavas, nakshatras, dashas, yogas, gochara and divisional charts",
+      "risk": "high",
+      "file": "prompts/vedic-astrology-jyotisha/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-chinese-east-asian-astrology-sector-expert",
+      "sector": "Chinese and East Asian Astrology",
+      "slug": "chinese-east-asian-astrology",
+      "scope": "Chinese zodiac, BaZi or Four Pillars, Five Elements and luck cycles",
+      "risk": "high",
+      "file": "prompts/chinese-east-asian-astrology/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-horoscopes-transits-sector-expert",
+      "sector": "Horoscopes and Transit Content",
+      "slug": "horoscopes-transits",
+      "scope": "daily, weekly, monthly and annual horoscope-style content",
+      "risk": "high",
+      "file": "prompts/horoscopes-transits/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-numerology-sector-expert",
+      "sector": "Numerology",
+      "slug": "numerology",
+      "scope": "Pythagorean, Chaldean and declared numerology systems, profiles and cycles",
+      "risk": "high",
+      "file": "prompts/numerology/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-tarot-oracle-cards-sector-expert",
+      "sector": "Tarot and Oracle Cards",
+      "slug": "tarot-oracle-cards",
+      "scope": "card meanings, spreads, journaling and decision reflection",
+      "risk": "high",
+      "file": "prompts/tarot-oracle-cards/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-psychic-intuitive-practices-sector-expert",
+      "sector": "Psychic and Intuitive Practices",
+      "slug": "psychic-intuitive-practices",
+      "scope": "intuition exercises, symbolic reflection, claim review and consumer safeguards",
+      "risk": "high",
+      "file": "prompts/psychic-intuitive-practices/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-vastu-shastra-sector-expert",
+      "sector": "Vastu Shastra",
+      "slug": "vastu-shastra",
+      "scope": "traditional Indian spatial principles, directional zoning and non-destructive layout review",
+      "risk": "high",
+      "file": "prompts/vastu-shastra/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-feng-shui-sector-expert",
+      "sector": "Feng Shui",
+      "slug": "feng-shui",
+      "scope": "bagua or compass-school reflection, room flow and non-destructive adjustments",
+      "risk": "high",
+      "file": "prompts/feng-shui/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-palmistry-face-dream-symbolism-sector-expert",
+      "sector": "Palmistry, Face Reading and Dream Symbolism",
+      "slug": "palmistry-face-dream-symbolism",
+      "scope": "cultural history and symbolic reflection concerning palms, historical physiognomy, dreams, omens and signs",
+      "risk": "high",
+      "file": "prompts/palmistry-face-dream-symbolism/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-spiritual-life-coaching-sector-expert",
+      "sector": "Spiritual Life Coaching",
+      "slug": "spiritual-life-coaching",
+      "scope": "values, meaning, purpose, spiritual practice, goals and accountability",
+      "risk": "high",
+      "file": "prompts/spiritual-life-coaching/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-life-coaching-sector-expert",
+      "sector": "Life Coaching",
+      "slug": "life-coaching",
+      "scope": "client-led goals, options, habits, action and progress review",
+      "risk": "high",
+      "file": "prompts/life-coaching/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-career-relationship-wellness-coaching-sector-expert",
+      "sector": "Career, Relationship and Wellness Coaching",
+      "slug": "career-relationship-wellness-coaching",
+      "scope": "non-clinical reflection and action planning across work, communication and wellbeing",
+      "risk": "high",
+      "file": "prompts/career-relationship-wellness-coaching/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-ritual-meditation-affirmations-sector-expert",
+      "sector": "Ritual, Meditation and Affirmations",
+      "slug": "ritual-meditation-affirmations",
+      "scope": "user-aligned reflective rituals, meditation, affirmations and journaling",
+      "risk": "high",
+      "file": "prompts/ritual-meditation-affirmations/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-spiritual-content-business-ethics-sector-expert",
+      "sector": "Spiritual Content, Practice and Business Ethics",
+      "slug": "spiritual-content-business-ethics",
+      "scope": "ethical content, services, informed consent, pricing, advertising, privacy and safeguards",
+      "risk": "high",
+      "file": "prompts/spiritual-content-business-ethics/sector-expert.md",
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "spiritual-divination-coaching-history-comparative-study-sector-expert",
+      "sector": "History and Comparative Study",
+      "slug": "history-comparative-study",
+      "scope": "historical, textual and comparative research into esoteric and coaching traditions",
+      "risk": "high",
+      "file": "prompts/history-comparative-study/sector-expert.md",
+      "license": "CC0-1.0"
+    }
+  ]
+}

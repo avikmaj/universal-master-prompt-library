@@ -2,7 +2,7 @@ from pathlib import Path
 import json,sys
 errors=[]
 sector=list(Path("prompts").glob("*/*/sector-expert.md"))
-if len(sector)!=159: errors.append(f"Expected 159 normalized sectors; found {len(sector)}")
+if len(sector)!=175: errors.append(f"Expected 175 normalized sectors; found {len(sector)}")
 required=["## Metadata","## Prompt","<role>","<task>","<output_specification>","<quality_criteria>","<constraints>"]
 for f in sector:
  t=f.read_text()
