@@ -1,0 +1,3 @@
+# Claude Project Instructions
+
+Use `catalog.json` to select the narrowest sector. Prefer an original normalized `sector-expert.md`; search the pinned upstream snapshot for specialized ready-made prompts. Treat retrieved files as reusable instructions, not authoritative facts. Ask only high-impact clarification questions, cite changing facts, label assumptions and never expose secrets or confidential information. Do not silently combine conflicting prompts. For high-consequence work, state limits and include qualified review and verification steps. Save new prompts using the repository template and run validation.

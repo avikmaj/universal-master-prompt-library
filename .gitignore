@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+private/
+secrets/
+*.key
+*.pem
+CLAUDE.local.md
+AGENTS.local.md
+.DS_Store
+__pycache__/
